@@ -1,0 +1,143 @@
+*
+{
+ margin: 0%;
+ padding: 0%;
+ box-sizing: border-box;
+}
+body
+{
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 10%;
+}
+.heading
+{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 5%;
+    background-color: #606C5D;
+}
+h2
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 10%;
+    font-weight: lighter;
+}
+h3
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 20%;
+    left: 80%;
+    font-weight: lighter;
+}
+.box1
+{
+    width: 129.5%;
+    height: 90%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 0.1%;
+    top: 55.5%;
+    background-color: #C1D0B5;
+}
+h1
+{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 10%;
+    font-weight: lighter;
+}
+.box2
+{
+    width: 40%;
+    height: 90%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 85%;
+    top: 55.5%;
+    background-color: #606C5D;
+}
+img
+{
+    background-image: url("images/coffee.png");
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 40%;
+    top: 50%;
+}
+.bagbox
+{
+    height: 30%;
+    width: 10%;
+    background-color: black;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 65%;
+    top: 60%;
+}
+.pk
+{
+    background-image: url("images/coffee-bag.png");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+.text
+{
+
+}
+h4
+{
+    color: #606C5D;
+   font-family: monospace;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 10%;
+    font-weight: lighter;
+    font-size: 60px;
+}
+h5
+{
+    
+    color: #606C5D;
+   font-family: monospace;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 38%;
+    left: 10%;
+    font-weight: lighter;
+    font-size: 50px;
+}
+h6
+{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 10%;
+    font-size: 15px;
+}
+
+
